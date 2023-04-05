@@ -1,0 +1,15 @@
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\bin\Debug\net6.0\Cod.exe
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\bin\Debug\net6.0\Cod.deps.json
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\bin\Debug\net6.0\Cod.runtimeconfig.json
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\bin\Debug\net6.0\Cod.dll
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\bin\Debug\net6.0\Cod.pdb
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\Cod.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\Cod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\Cod.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\Cod.AssemblyInfo.cs
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\Cod.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\Cod.dll
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\refint\Cod.dll
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\Cod.pdb
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\Cod.genruntimeconfig.cache
+C:\Users\Micro\Desktop\GITHUB\C\Cod\Cod\obj\Debug\net6.0\ref\Cod.dll
