@@ -1,0 +1,15 @@
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\Raio.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\Raio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\Raio.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\Raio.AssemblyInfo.cs
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\Raio.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\bin\Debug\net6.0\Raio.exe
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\bin\Debug\net6.0\Raio.deps.json
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\bin\Debug\net6.0\Raio.runtimeconfig.json
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\bin\Debug\net6.0\Raio.dll
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\bin\Debug\net6.0\Raio.pdb
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\Raio.dll
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\refint\Raio.dll
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\Raio.pdb
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\Raio.genruntimeconfig.cache
+C:\Users\Micro\Desktop\GITHUB\C\Raio\Raio\obj\Debug\net6.0\ref\Raio.dll
