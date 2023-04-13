@@ -8,23 +8,30 @@ namespace Raio
 {
     public class Calculos
     {
-        static double Pi = 3.14;
-        public double Raio { get; set; }
-        public double Resultado { get; set; }
+        public double Pi = 3.14;
 
-        public void Circunferencia(double r, double resultado)
+        public double Circunferencia(double r)
         {
-            Raio = r;
-            Resultado = resultado;
-            resultado = 2 * Pi * r;
+            return 2 * Pi * r;
         }
 
-        public void Volume(double r, double resultado)
+        public double Volume(double r)
         {
-            Raio = r;
-            Resultado = resultado;
-            resultado = 4 / 3 * Pi * Math.Pow(r, 3);
-
+            return 4 / 3 * Pi * Math.Pow(r,3);
         }
+        //public Circunferencia(double r, double resultado)
+        //{
+        //    Raio = r;
+        //    Resultado = resultado;
+        //    resultado = 2 * Pi * r;
+        //}
+
+        //public Volume(double r, double resultado)
+        //{
+        //    Raio = r;
+        //    Resultado = resultado;
+        //    resultado = 4 / 3 * Pi * Math.Pow(r, 3);
+
+        //}
     }
 }

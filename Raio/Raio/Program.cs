@@ -5,18 +5,20 @@ namespace Raio
 {
     public class Program
     {
-        static double Pi = 3.14;
         static void Main(string[] args)
         {
-            Console.WriteLine("Entre com o valor do Raio: ");
-            var Raio = double.Parse(Console.ReadLine());
 
-            
-            Calculos _circunferencia = new Calculos();
-            Calculos _volume = new Calculos();
-            Console.WriteLine($"O valor da Circunferencia é: {_circunferencia.Resultado}");
-            Console.WriteLine($"O valor de Pi é: {Pi}");
-            Console.WriteLine($"o valor do Volume é: {_volume.Resultado}");
+            Calculos calc = new Calculos();
+
+            Console.WriteLine("Entre com o valor do Raio: ");
+            double Raio = double.Parse(Console.ReadLine());
+
+            double circ = calc.Circunferencia(Raio);
+            double volume = calc.Volume(Raio);
+
+            Console.WriteLine($"O valor da Circunferencia é: {calc.Circunferencia}");
+            Console.WriteLine($"O valor de Pi é: {calc.Pi}");
+            Console.WriteLine($"o valor do Volume é: {calc.Volume}");
         }
     }
 }
