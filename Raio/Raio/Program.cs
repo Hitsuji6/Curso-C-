@@ -16,9 +16,9 @@ namespace Raio
             double circ = calc.Circunferencia(Raio);
             double volume = calc.Volume(Raio);
 
-            Console.WriteLine($"O valor da Circunferencia é: {calc.Circunferencia}");
+            Console.WriteLine($"O valor da Circunferencia é: {circ}");
             Console.WriteLine($"O valor de Pi é: {calc.Pi}");
-            Console.WriteLine($"o valor do Volume é: {calc.Volume}");
+            Console.WriteLine($"o valor do Volume é: {volume}");
         }
     }
 }
