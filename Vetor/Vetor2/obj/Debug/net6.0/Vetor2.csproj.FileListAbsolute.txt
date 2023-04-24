@@ -1,0 +1,15 @@
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\bin\Debug\net6.0\Vetor2.exe
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\bin\Debug\net6.0\Vetor2.deps.json
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\bin\Debug\net6.0\Vetor2.runtimeconfig.json
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\bin\Debug\net6.0\Vetor2.dll
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\bin\Debug\net6.0\Vetor2.pdb
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\Vetor2.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\Vetor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\Vetor2.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\Vetor2.AssemblyInfo.cs
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\Vetor2.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\Vetor2.dll
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\refint\Vetor2.dll
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\Vetor2.pdb
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\Vetor2.genruntimeconfig.cache
+C:\Users\Micro\Desktop\GITHUB\C\Vetor\Vetor2\obj\Debug\net6.0\ref\Vetor2.dll
