@@ -1,0 +1,15 @@
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\bin\Debug\net6.0\Inicio.exe
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\bin\Debug\net6.0\Inicio.deps.json
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\bin\Debug\net6.0\Inicio.runtimeconfig.json
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\bin\Debug\net6.0\Inicio.dll
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\bin\Debug\net6.0\Inicio.pdb
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\Inicio.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\Inicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\Inicio.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\Inicio.AssemblyInfo.cs
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\Inicio.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\Inicio.dll
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\refint\Inicio.dll
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\Inicio.pdb
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\Inicio.genruntimeconfig.cache
+C:\Users\Micro\Desktop\GITHUB\C\File\Inicio\obj\Debug\net6.0\ref\Inicio.dll

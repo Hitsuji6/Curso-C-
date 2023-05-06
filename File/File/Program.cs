@@ -18,7 +18,7 @@ namespace Arquivos
             {
                 sw.WriteLine("GINEAD - Cursos");
                 sw.WriteLine("freeCodeCamp - Cursos");
-                sw.WriteLine("fmhy.pages.dev - Diversos");
+                
             }
 
             fileInfo.CopyTo(targetPath);
