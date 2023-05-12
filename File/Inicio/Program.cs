@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Collections.Generic;
 
 namespace Inicio
 {
@@ -7,8 +8,9 @@ namespace Inicio
     {
         static void Main(string[] args)
         {
-            string SourcePath = @"C:\Users\Micro\Desktop\teste.txt";
-            string TargetPath = @"C:\Users\Micro\Desktop\teste2.txt";
+            string Path = @"C:\Users\Micro\Desktop";
+            string SourcePath = @"C:\Users\Micro\Desktop\teste\teste.txt";
+            string TargetPath = @"C:\Users\Micro\Desktop\teste\teste2.txt";
             FileInfo fileinfo = new FileInfo(SourcePath);
             FileInfo targetinfo = new FileInfo(TargetPath);
 
@@ -29,6 +31,7 @@ namespace Inicio
                 {
                     case "1":
                         {
+                            Directory.CreateDirectory(Path + @"\teste");
                             using (StreamWriter sw = fileinfo.CreateText())
                             {
                                 Console.WriteLine("Escreva aqui: ");
